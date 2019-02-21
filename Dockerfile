@@ -6,9 +6,9 @@ FROM ${BASE_CONTAINER}
 
 ENV REFRESHED_AT=2019-02-18
 
-#############################################
-## OS infrastructure
-#############################################
+# -----------------------------------------------------------------------------
+# OS infrastructure
+# -----------------------------------------------------------------------------
 
 USER root
 
@@ -30,30 +30,27 @@ RUN apt-get -y install \
       wget \
  && rm -rf /var/lib/apt/lists/*
 
-#############################################
-## Python infrastructure
-#############################################
+# -----------------------------------------------------------------------------
+# Python infrastructure
+# -----------------------------------------------------------------------------
 
 # Update Anaconda.
 
 RUN conda update -y -n base conda
 
-# Python 2.
+# Create a Python 2 environment.
 
 RUN conda create -n ipykernel_py2 python=2 ipykernel
 
-RUN conda install -c pyviz holoviews bokeh
+# Python libraries for python 2.7 from "anaconda" channel.
 
-# Python libraries for python 2.7.
-
-RUN conda install -n ipykernel_py2 -y \
-      bokeh \
-      holoviews \
+RUN conda install -n ipykernel_py2 -c anaconda -y \
       ipykernel \
       ipython \
       networkx \
       numpy \
       pandas \
+      pandas-datareader \
       plotly \
       psutil \
       pyodbc \
@@ -62,11 +59,15 @@ RUN conda install -n ipykernel_py2 -y \
       sympy \
       version_information
 
-# Install notebook widgets.
+# Install python libraries from specific conda channels.
 
 RUN conda install -n ipykernel_py2 -c conda-forge -y \
-      widgetsnbextension \
-      ipywidgets
+      ipywidgets \
+      widgetsnbextension
+
+RUN conda install -n ipykernel_py2 -c pyviz -y \
+      bokeh \
+      holoviews
 
 # Install jupyter widgets for qgrid.
 
@@ -84,9 +85,9 @@ RUN conda run -n ipykernel_py2 python -m ipykernel install --user
 
 RUN npm i -g npm
 
-#############################################
-## Prepare user home dir
-#############################################
+# -----------------------------------------------------------------------------
+# Prepare user home dir
+# -----------------------------------------------------------------------------
 
 # Copy files from repository.
 
@@ -97,11 +98,11 @@ COPY ./notebooks /home/$NB_USER/
 RUN chown -R $NB_UID:$NB_GID /home/$NB_USER
 RUN chmod -R ug+rw /home/$NB_USER
 
+# -----------------------------------------------------------------------------
+# User environment setting
+# -----------------------------------------------------------------------------
+
 # Return to original user.
 # Defined in https://github.com/jupyter/docker-stacks/blob/master/base-notebook/Dockerfile
-
-#############################################
-## User environment setting
-#############################################
 
 USER $NB_UID
