@@ -170,7 +170,6 @@ sudo docker build --tag senzing/jupyter-statpack https://github.com/senzing/dock
         start.sh jupyter notebook --NotebookApp.token=''
     ```
 
-
 ### Run Jupyter
 
 1. If no token authentication (Variation #2), access your jupyter notebooks at: [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
@@ -212,4 +211,4 @@ sudo docker build --tag senzing/jupyter-statpack https://github.com/senzing/dock
 ## Reference
 
 1. [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-1. [Holoviews gallery][(http://holoviews.org/gallery/index.html)
+1. [Holoviews gallery](http://holoviews.org/gallery/index.html)
