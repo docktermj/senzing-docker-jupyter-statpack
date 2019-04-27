@@ -1,0 +1,2337 @@
+{
+	"TOTAL_DISCLOSED_RELATIONS": 0,
+	"ENTITY_SIZE_BREAKDOWN": [
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 0.6,
+				"NAME": 0.8,
+				"DOB": 0.4,
+				"GENDER": 0.2,
+				"OWNER_OF": 0.4,
+				"ADDRESS": 0.3,
+				"NATIONALITY": 0.1,
+				"JOB_TITLE": 0.5
+			},
+			"SAMPLE_ENTITIES": {
+				"1": "ANDERSON NIL VALDEMAR",
+				"3": "ANDERSON DIN ERNEST",
+				"187460": "MICHAEL MOORE",
+				"6": "ANDERSON NOEL",
+				"1002": "ANDERSON ALEKSANDR GENNADEVICH",
+				"187469": "unknown",
+				"187470": "JAMES ANDERSON CARNEGIE",
+				"187471": "H KITTS",
+				"187477": "unknown",
+				"187455": "ANDREW SANDERSON BEATY"
+			},
+			"ENTITY_SIZE": 1,
+			"ENTITY_COUNT": 56198,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 1.0,
+				"NAME": 1.4,
+				"FF_NAME_CNTRY": 0.1,
+				"OWNER_OF": 0.4,
+				"DOB": 0.5,
+				"JOB_TITLE": 1.6
+			},
+			"SAMPLE_ENTITIES": {
+				"185249": "ANDREW ANDERSON",
+				"2": "ANDERSON ALEKSEI LEONIDOVICH",
+				"5": "ANDERSON OLGA ALFREDOVNA",
+				"7": "ANDERSON LYUDMILA VALENTINOVNA",
+				"8": "ANDERSON SVETLANA OLEGOVNA",
+				"185288": "SONIA LOUISE ATKINS",
+				"183931": "STEVEN BRADLEY HUTCHESSON",
+				"186373": "AI HUI ZHANG",
+				"186110": "WARREN JOHN DUNN",
+				"184191": "CHRISTINE ANDERSON"
+			},
+			"ENTITY_SIZE": 2,
+			"ENTITY_COUNT": 12595,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 1.3,
+				"NAME": 1.6,
+				"FF_NAME_CNTRY": 0.2,
+				"OWNER_OF": 0.7,
+				"DOB": 0.5,
+				"ADDRESS": 0.4,
+				"NATIONALITY": 0.1,
+				"JOB_TITLE": 1.7,
+				"DUNS_NUMBER": 0.1
+			},
+			"SAMPLE_ENTITIES": {
+				"176320": "CHARLES MATTHEWS",
+				"4001": "KOLESNIK EVGENI FEDOROVICH",
+				"7011": "SALLY JANE ANDERSON",
+				"176037": "JOHN ANDERSON RICKARD",
+				"168358": "KEVIN MARK ANDERSON",
+				"178123": "JARRAD SANDERSON",
+				"176815": "ROBERT ANDERSON",
+				"7001": "ASH ASSETS PTY LTD",
+				"7003": "LINDSEY ANDERSON",
+				"177021": "GREGORY ANDERSON"
+			},
+			"ENTITY_SIZE": 3,
+			"ENTITY_COUNT": 7015,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 2.3,
+				"NAME": 1.6,
+				"FF_NAME_CNTRY": 0.3,
+				"GENDER": 0.2,
+				"OWNER_OF": 0.9,
+				"DOB": 0.7,
+				"ADDRESS": 0.7,
+				"NATIONALITY": 0.1,
+				"JOB_TITLE": 1.4,
+				"DUNS_NUMBER": 0.1
+			},
+			"SAMPLE_ENTITIES": {
+				"152738": "JANET ANDERSON",
+				"148995": "JAMES JOSEPH ANDERSON",
+				"1003": "TATULOVA ANASTASIYA ANATOLEVNA",
+				"144014": "MARK ANDERSON",
+				"179919": "KATHLEEN-MAY ANDERSON",
+				"1009": "ANDERSON VYACHESLAV BORISOVICH",
+				"2002": "ANDERSON OLEG EVGENEVICH",
+				"161719": "RONALD SMART",
+				"162364": "TIMOTHY CHARLES BREWER",
+				"7006": "PARKING SENSE AUSTRALIA PTY LTD"
+			},
+			"ENTITY_SIZE": 4,
+			"ENTITY_COUNT": 2373,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 3.6,
+				"NAME": 1.7,
+				"FF_NAME_CNTRY": 0.7,
+				"GENDER": 0.3,
+				"OWNER_OF": 0.8,
+				"DOB": 1.1,
+				"ADDRESS": 1.0,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 2.1
+			},
+			"SAMPLE_ENTITIES": {
+				"4": "ANDERSON YURI ALFREDOVICH",
+				"132646": "WALTER JAMES ANDERSON",
+				"141003": "JOHN FRANK ANDERSON",
+				"7020": "SANDRA KAY ANDERSON",
+				"129325": "MAVIS SANDERSON",
+				"1005": "KHAIDAROVA LOLITA ATKHAMZHANOVNA",
+				"132023": "MICHAEL HENRY COPPEL",
+				"137497": "JOHN ANDERSON",
+				"150781": "ALLAN THOMAS ANDERSON",
+				"7007": "CHRISTOPHER RAYMOND COLLINS"
+			},
+			"ENTITY_SIZE": 5,
+			"ENTITY_COUNT": 1280,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 3.9,
+				"OWNER_OF": 0.7,
+				"NAME": 1.8,
+				"DOB": 1.1,
+				"GENDER": 0.2,
+				"FF_NAME_DOB": 0.1,
+				"FF_NAME_CNTRY": 0.2,
+				"ADDRESS": 1.3,
+				"NATIONALITY": 0.2,
+				"JOB_TITLE": 2.3
+			},
+			"SAMPLE_ENTITIES": {
+				"150786": "RUSSELL WILSON ANDERSON",
+				"138149": "ALEXANDER JAMES ANDERSON",
+				"7014": "DENIS ADRIAN ANDERSON",
+				"7113": "JOHN HENTY BEATTIE",
+				"150022": "STEPHEN GEORGE MABBOTT",
+				"7024": "JUDITH MARY ANDERSON",
+				"129683": "JOHN ANDERSON",
+				"7060": "GLEN ANDERSON",
+				"135129": "ERIC JOHN ANDERSON",
+				"116826": "GARY JOHN ANDERSON"
+			},
+			"ENTITY_SIZE": 6,
+			"ENTITY_COUNT": 828,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 4.9,
+				"NAME": 1.8,
+				"DOB": 1.0,
+				"GENDER": 0.5,
+				"OWNER_OF": 1.2,
+				"FF_NAME_CNTRY": 0.1,
+				"ADDRESS": 1.7,
+				"NATIONALITY": 0.3,
+				"JOB_TITLE": 1.6
+			},
+			"SAMPLE_ENTITIES": {
+				"127462": "BRIAN ROBERT ANDERSON",
+				"126630": "CHRISTOPHER JOHN ANDERSON",
+				"106375": "CHARLES FITZALLAN ANDERSON",
+				"7050": "RENAE ANDERSON",
+				"7023": "PATRICIA ANDERSON",
+				"7058": "NICOLE MARGARET ANDERSON",
+				"131445": "IAN WILLIAM ANDERSON",
+				"121016": "CAROLYN ANDERSON PASSEY",
+				"136924": "SAMUEL ANDERSON",
+				"7103": "ROBERT JAMES ANDERSON"
+			},
+			"ENTITY_SIZE": 7,
+			"ENTITY_COUNT": 517,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 6.1,
+				"OWNER_OF": 1.0,
+				"NAME": 2.4,
+				"DOB": 1.3,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.1,
+				"FF_NAME_CNTRY": 0.1,
+				"ADDRESS": 2.4,
+				"NATIONALITY": 0.6,
+				"JOB_TITLE": 2.1,
+				"CONTACT_FOR": 0.2
+			},
+			"SAMPLE_ENTITIES": {
+				"7015": "BRETT RONALD ANDERSON",
+				"108426": "HELGA FERGUS SANDISON",
+				"107824": "GILBERT MACKENZIE ANDERSON",
+				"112882": "SUSAN MARY ANDERSON",
+				"102233": "ANDREW ANDERSON",
+				"7065": "DAVID ANDERSON",
+				"7194": "RYAN CHRISTOPHER SANDERSON",
+				"7131": "PETER ANTHONY DE CAMPO",
+				"120318": "ALASTAIR ALEXANDER ANDERSON BROWN",
+				"113439": "TERENCE CHARLES SANDERSON"
+			},
+			"ENTITY_SIZE": 8,
+			"ENTITY_COUNT": 343,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 6.0,
+				"NAME": 2.0,
+				"DOB": 1.3,
+				"GENDER": 0.2,
+				"OWNER_OF": 1.2,
+				"FF_NAME_CNTRY": 0.6,
+				"ADDRESS": 2.1,
+				"NATIONALITY": 0.3,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"114401": "JAMES ANDERSON LIDDIARD",
+				"126982": "GARY JAMES ANDERSON",
+				"7179": "MATTHEW JAMES ANDERSON",
+				"102924": "LUCILLE CAROLINE AUGUSTAITIS",
+				"94989": "JULIANNE LYALL-ANDERSON",
+				"7278": "JAMES HAROLD ANDERSON",
+				"106702": "IAN RUSSELL ANDERSON",
+				"7093": "NORMAN JOHN ANDERSON",
+				"7094": "KEITH ROBERT ANDERSON",
+				"103483": "MICHAEL COLIN ANDERSON"
+			},
+			"ENTITY_SIZE": 9,
+			"ENTITY_COUNT": 230,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 7.2,
+				"NAME": 1.5,
+				"DOB": 1.1,
+				"OWNER_OF": 1.6,
+				"FF_NAME_CNTRY": 0.3,
+				"ADDRESS": 1.6,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 2.4
+			},
+			"SAMPLE_ENTITIES": {
+				"7109": "IAN WILLIAM ANDERSON",
+				"7175": "BRIAN WILLIAM QUINN",
+				"112875": "JULIE MARIA ANDERSON",
+				"108300": "SHAHID HUSSAIN",
+				"104176": "MICHAEL DAVID SANDERSON",
+				"7379": "ROBERT GRAHAM ANDERSON",
+				"99158": "ALISON JANE ANDERSON",
+				"7258": "PENELOPE CAMPBELL SANDERSON",
+				"93757": "MICHAEL JAMES GILL-ANDERSON",
+				"100094": "DAVID CALLUM ROBERTSON GRAHAM"
+			},
+			"ENTITY_SIZE": 10,
+			"ENTITY_COUNT": 182,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 7.7,
+				"OWNER_OF": 0.9,
+				"NAME": 2.0,
+				"DOB": 1.2,
+				"GENDER": 0.4,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.1,
+				"FF_NAME_CNTRY": 0.2,
+				"ADDRESS": 2.3,
+				"NATIONALITY": 0.3,
+				"CONTACT_FOR": 0.8,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"8100": "JAMES ANDERSON",
+				"87529": "WILLIAM ANDERSON",
+				"91692": "BRUCE MCDONALD ANDERSON",
+				"93075": "LESLIE ANDERSON THOMPSON",
+				"100788": "PETER SANDERSON",
+				"7061": "JOHN ANDERSON",
+				"87990": "PETER MCKENZIE ANDERSON",
+				"7357": "NOEL ANDERSON",
+				"103486": "GINA ANDERSON",
+				"8021": "DAREN JAMES ANDERSON"
+			},
+			"ENTITY_SIZE": 11,
+			"ENTITY_COUNT": 121,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 7.6,
+				"OWNER_OF": 2.0,
+				"NAME": 2.2,
+				"DOB": 1.3,
+				"GENDER": 0.4,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.1,
+				"FF_NAME_CNTRY": 0.3,
+				"ADDRESS": 2.3,
+				"NATIONALITY": 0.5,
+				"JOB_TITLE": 2.1,
+				"CONTACT_FOR": 0.2
+			},
+			"SAMPLE_ENTITIES": {
+				"7264": "RUSSELL WILLIAM ANDERSON",
+				"85179": "DAVID ALBERT GREESON",
+				"7140": "KATHY JEANNE SANDERSON",
+				"57510": "CLAIRE ANDERSON",
+				"87590": "ROSS ANDERSON LOVIE",
+				"117161": "MARTIN ROBERT PAUL RANDERSON",
+				"8112": "BERNARD ATHOL ANDERSON",
+				"8211": "JOHN HUBERT BRUCE ANDERSON",
+				"86938": "ANDREW ANDERSON",
+				"66598": "NEIL EDWARD SANDERSON"
+			},
+			"ENTITY_SIZE": 12,
+			"ENTITY_COUNT": 86,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 7.4,
+				"NAME": 2.1,
+				"DOB": 1.1,
+				"GENDER": 0.5,
+				"OWNER_OF": 2.4,
+				"PHONE": 0.1,
+				"FF_NAME_CNTRY": 0.3,
+				"ADDRESS": 4.1,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 1.9,
+				"CONTACT_FOR": 0.9
+			},
+			"SAMPLE_ENTITIES": {
+				"38401": "ADAM ANDERSON",
+				"88011": "A PETER ANDERSON 2ND",
+				"41546": "MARK JOHN BENEDICT DALTON",
+				"7115": "KATE ANDERSON",
+				"101807": "STEPHEN MICHAEL ANDERSON",
+				"84963": "THOMAS ANDERSON",
+				"7222": "EDWARD GEORGE ANDERSON",
+				"8217": "GLENN ANDERSON",
+				"7418": "PHILLIP JOHN ANDERSON",
+				"91262": "ELAINE BIRCHALL"
+			},
+			"ENTITY_SIZE": 13,
+			"ENTITY_COUNT": 72,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 10.1,
+				"OWNER_OF": 1.1,
+				"NAME": 2.3,
+				"DOB": 1.3,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.2,
+				"PHONE": 0.2,
+				"FF_NAME_CNTRY": 0.5,
+				"ADDRESS": 3.3,
+				"NATIONALITY": 0.5,
+				"JOB_TITLE": 2.7,
+				"CONTACT_FOR": 0.9
+			},
+			"SAMPLE_ENTITIES": {
+				"90019": "COLIN DAVID ANDERSON",
+				"102596": "COLIN ANDERSON",
+				"101610": "DAVID CHRISTOPHER ANDERSON",
+				"7019": "RICHARD PETER ANDERSON",
+				"91532": "JAMES ANDERSON",
+				"9230": "MICHAEL BRIAN ANDERSON",
+				"91377": "JOHN MCCREADIE ANDERSON",
+				"52375": "STEVEN MARK SANDERSON",
+				"7268": "MICHAEL EARL ANDERSON",
+				"7419": "COLIN ANDREW WARWICK ANDERSON"
+			},
+			"ENTITY_SIZE": 14,
+			"ENTITY_COUNT": 60,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 10.9,
+				"OWNER_OF": 1.2,
+				"NAME": 2.1,
+				"DOB": 1.3,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.3,
+				"FF_NAME_CNTRY": 0.4,
+				"ADDRESS": 2.8,
+				"NATIONALITY": 0.6,
+				"JOB_TITLE": 2.1,
+				"CONTACT_FOR": 0.9
+			},
+			"SAMPLE_ENTITIES": {
+				"45508": "JAMES PAUL ANDERSON",
+				"11463": "GAYLE MAREE ANDERSON",
+				"8235": "MARK ANDERSON",
+				"10284": "SHANE ROSS ANDERSON",
+				"89421": "THOMAS ALAN ANDERSON",
+				"56109": "ALISTAIR ROBERT ANDERSON",
+				"86663": "LINDA FENTON ANDERSON",
+				"86935": "PETER JOHN ANDERSON",
+				"88959": "KEITH LEONARD LEANEY",
+				"7423": "MICHAEL JAMES ANDERSON"
+			},
+			"ENTITY_SIZE": 15,
+			"ENTITY_COUNT": 43,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 10.9,
+				"OWNER_OF": 1.9,
+				"NAME": 1.8,
+				"DOB": 1.0,
+				"GENDER": 0.4,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.3,
+				"FF_NAME_CNTRY": 0.4,
+				"ADDRESS": 3.4,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 2.5,
+				"CONTACT_FOR": 0.7
+			},
+			"SAMPLE_ENTITIES": {
+				"11074": "WILLIAM GEORGE ANDERSON",
+				"83589": "JOHN ROBERT ANDERSON",
+				"107337": "NEIL ANDERSON CAISLEY",
+				"99862": "SIMON ANDERSON ROTHERY",
+				"43213": "MARK JOHN ANDERSON",
+				"59700": "MARK IAN ANDERSON",
+				"8149": "JOHN ANDERSON BRICHER",
+				"9430": "PETER DOUGLAS ANDERSON",
+				"85723": "CATHERINE ELIZABETH ANDERSON",
+				"7261": "DAVID JOHN ALEXANDERSON"
+			},
+			"ENTITY_SIZE": 16,
+			"ENTITY_COUNT": 48,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 11.4,
+				"OWNER_OF": 1.8,
+				"NAME": 1.9,
+				"DOB": 1.2,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.1,
+				"FF_NAME_CNTRY": 0.4,
+				"JOB_TITLE": 2.3,
+				"ADDRESS": 4.5,
+				"NATIONALITY": 0.5,
+				"DUNS_NUMBER": 0.1,
+				"CONTACT_FOR": 1.2
+			},
+			"SAMPLE_ENTITIES": {
+				"7107": "RICHARD ANDERSON PTY LTD",
+				"9060": "DESMOND GEORGE SAMUEL ANDERSON",
+				"90620": "PATRICK JOHN SANDERSON",
+				"28397": "BRIAN GRANT ANDERSON",
+				"87410": "RANALD ANDERSON",
+				"93459": "JOHN MURPHY",
+				"63188": "JULIAN ERIC SANDERSON",
+				"13333": "IAN JAMES ANDERSON",
+				"13788": "CHERYL ANNE ANDERSON",
+				"42558": "THOMAS ANDERSON"
+			},
+			"ENTITY_SIZE": 17,
+			"ENTITY_COUNT": 34,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 12.3,
+				"OWNER_OF": 1.3,
+				"NAME": 2.6,
+				"DOB": 1.0,
+				"GENDER": 0.8,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.6,
+				"FF_NAME_CNTRY": 0.5,
+				"ADDRESS": 4.0,
+				"NATIONALITY": 0.6,
+				"JOB_TITLE": 1.9,
+				"CONTACT_FOR": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"54304": "JOHN SANDERSON",
+				"9025": "PAUL JOHN SANDERSON",
+				"53953": "EUAN ANDERSON FIELDER",
+				"14123": "PAUL IAIN ANDERSON",
+				"93263": "PAUL DOUGLAS ANDERSON",
+				"19283": "STEVEN NEIL ANDERSON",
+				"84216": "DECLAN THOMAS KENNY",
+				"100313": "ANDREW MARK SANDERSON",
+				"8378": "SUSAN MARGARET ANDERSON",
+				"92865": "M MATTHEW DAVID GROOM"
+			},
+			"ENTITY_SIZE": 18,
+			"ENTITY_COUNT": 29,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 11.6,
+				"OWNER_OF": 2.5,
+				"NAME": 2.5,
+				"DOB": 1.2,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.1,
+				"F1_RELATION": 0.1,
+				"PHONE": 0.3,
+				"FF_NAME_CNTRY": 0.7,
+				"ADDRESS": 4.0,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 2.1,
+				"CONTACT_FOR": 1.3
+			},
+			"SAMPLE_ENTITIES": {
+				"56072": "TIMOTHY RICHARD HARVEY PHILLIPS",
+				"30604": "PHILIP ERNEST RANDERSON",
+				"12623": "GILLIAN MARGARET ANDERSON",
+				"12445": "DARREN GEOFFREY ANDERSON",
+				"56340": "GRAHAM CHARLES ANDERSON",
+				"7382": "ROBERT MERVYN ANDERSON",
+				"43255": "KENNETH ANDERSON",
+				"7228": "JUSTIN ALEXANDER JOHN ANDERSON",
+				"82237": "CHRISTOPHER WINN",
+				"12479": "WILLIAM ADOLPH DE JOBSON ANDERSON"
+			},
+			"ENTITY_SIZE": 19,
+			"ENTITY_COUNT": 20,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 13.1,
+				"OWNER_OF": 3.0,
+				"NAME": 2.3,
+				"DOB": 1.0,
+				"GENDER": 0.6,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.6,
+				"FF_NAME_CNTRY": 0.6,
+				"ADDRESS": 5.0,
+				"NATIONALITY": 0.5,
+				"JOB_TITLE": 2.0,
+				"CONTACT_FOR": 2.5
+			},
+			"SAMPLE_ENTITIES": {
+				"18592": "CRAIG ANDERSON WALKER",
+				"10340": "PAUL ANTHONY PITICCO",
+				"37520": "GEORGE KAY HAIG",
+				"31057": "KEITH THOMAS ANDERSON",
+				"57844": "CHARLOTTE LOUISE ANDERSON DUNN",
+				"83957": "JOHN CROMAR ANDERSON",
+				"11639": "PETER JOHN ANDERSON",
+				"60287": "LISA MICHELLE ANDERSON",
+				"8190": "MONIQUE ANDERSON",
+				"22367": "MARTIN ANDREW RAE"
+			},
+			"ENTITY_SIZE": 20,
+			"ENTITY_COUNT": 21,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 13.9,
+				"OWNER_OF": 2.7,
+				"NAME": 2.6,
+				"DOB": 1.0,
+				"GENDER": 0.4,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.4,
+				"FF_NAME_CNTRY": 0.4,
+				"ADDRESS": 5.0,
+				"NATIONALITY": 0.4,
+				"JOB_TITLE": 2.4,
+				"CONTACT_FOR": 2.4
+			},
+			"SAMPLE_ENTITIES": {
+				"7424": "WILLIAM MICHAEL ANDERSON",
+				"7009": "BRIAN HADLEY ANDERSON",
+				"7205": "GLENDON ANDERSON",
+				"52649": "THOMAS CHARLES ALEXANDERSON WRIGHT",
+				"84363": "CRAIG STEPHEN ANDERSON",
+				"8300": "TIMOTHY JOHN ANDERSON",
+				"38509": "MARK SANDERSON WATTS",
+				"22098": "THOMAS SOMERVILLE ANDERSON",
+				"33587": "LORD ALASTAIR IAN ANDERSON",
+				"91241": "JOHN BRUCE ANDERSON"
+			},
+			"ENTITY_SIZE": 21,
+			"ENTITY_COUNT": 18,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 14.5,
+				"FF_NAME_DOB": 0.2,
+				"NAME": 2.5,
+				"DOB": 1.0,
+				"GENDER": 0.7,
+				"OWNER_OF": 3.9,
+				"PHONE": 0.6,
+				"JOB_TITLE": 2.2,
+				"FF_NAME_CNTRY": 0.3,
+				"ADDRESS": 8.1,
+				"NATIONALITY": 0.8,
+				"CONTACT_FOR": 2.8,
+				"DUNS_NUMBER": 0.1
+			},
+			"SAMPLE_ENTITIES": {
+				"21568": "GEORGE BRIAN ANDERSON",
+				"21635": "MARK IAN ANDERSON",
+				"63911": "IAN PETER MAXWELL ANDERSON",
+				"33480": "CHRISTOPHER RICHARD ANDERSON",
+				"9033": "ROSS JAMES ANDERSON",
+				"43127": "IAN ANDERSON SMITH",
+				"52023": "IAN CLIVE ANDERSON",
+				"20147": "ROBERTSON BOIS DICKSON ANDERSON LIMITED",
+				"74740": "RICHARD JAMES ANDERSON",
+				"19241": "COLIN ALBERT ANDERSON HARPER"
+			},
+			"ENTITY_SIZE": 22,
+			"ENTITY_COUNT": 13,
+			"ANALYSIS": "warning: 8.1 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 13.2,
+				"OWNER_OF": 3.2,
+				"NAME": 3.4,
+				"DOB": 1.1,
+				"GENDER": 0.7,
+				"FF_NAME_DOB": 0.2,
+				"PHONE": 1.0,
+				"FF_NAME_CNTRY": 0.3,
+				"ADDRESS": 7.7,
+				"NATIONALITY": 0.7,
+				"CONTACT_FOR": 3.2,
+				"JOB_TITLE": 3.2
+			},
+			"SAMPLE_ENTITIES": {
+				"8224": "EDWARD ANDERSON",
+				"8193": "ROBERT ARNOLD ANDREW ANDERSON",
+				"15429": "PAUL HENRY SANDERSON",
+				"21793": "ALAN ALEXANDER ANDERSON",
+				"8040": "GORDON PIUS ANDERSON",
+				"27372": "DAVID ANDERSON",
+				"10127": "SHANE ANDERSON",
+				"101461": "RONALD ANDERSON",
+				"23229": "IAN ANDERSON",
+				"33309": "MARK STEPHEN ANDERSON"
+			},
+			"ENTITY_SIZE": 23,
+			"ENTITY_COUNT": 14,
+			"ANALYSIS": "warning: 3.4 names,7.7 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 15.88,
+				"NAME": 3.5,
+				"DOB": 1.38,
+				"GENDER": 0.75,
+				"OWNER_OF": 1.88,
+				"F1_RELATION": 0.13,
+				"PHONE": 0.5,
+				"FF_NAME_CNTRY": 0.63,
+				"ADDRESS": 9.13,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 3.0,
+				"CONTACT_FOR": 3.88
+			},
+			"SAMPLE_ENTITIES": {
+				"83489": "BERTHA HELEN ANDERSON",
+				"10435": "BRUCE STUART ANDERSON",
+				"23689": "SAMUEL IRVINE ANDERSON",
+				"34066": "BENJAMIN DELANO ANDERSON",
+				"40372": "DAVID ANDERSON FORSYTH COLLIER",
+				"21561": "DAVID EWART ANDERSON",
+				"20378": "STUART ANTHONY KIDSTON ANDERSON",
+				"27389": "DAVID ANDERSON"
+			},
+			"ENTITY_SIZE": 24,
+			"ENTITY_COUNT": 8,
+			"ANALYSIS": "warning: 3.5 names,9.13 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 15.38,
+				"NAME": 3.88,
+				"DOB": 1.13,
+				"GENDER": 0.88,
+				"OWNER_OF": 2.38,
+				"PHONE": 1.88,
+				"FF_NAME_CNTRY": 0.25,
+				"ADDRESS": 11.0,
+				"NATIONALITY": 0.88,
+				"CONTACT_FOR": 6.25,
+				"JOB_TITLE": 3.38
+			},
+			"SAMPLE_ENTITIES": {
+				"30321": "JEROME ANDERSON",
+				"25512": "NOEL KEYS ANDERSON",
+				"51783": "BRUCE SMITH ANDERSON",
+				"26573": "ROBERT ANDERSON",
+				"25487": "DANIEL ARTHUR KENNEDY GILL",
+				"27185": "JAMES BOYCE ANDERSON",
+				"64216": "IAN ANDERSON",
+				"23385": "CHRISTOPHER ANDERSON"
+			},
+			"ENTITY_SIZE": 25,
+			"ENTITY_COUNT": 8,
+			"ANALYSIS": "warning: 3.88 names,11.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 18.89,
+				"OWNER_OF": 1.67,
+				"NAME": 2.44,
+				"DOB": 1.0,
+				"GENDER": 0.89,
+				"FF_NAME_DOB": 0.11,
+				"PHONE": 1.44,
+				"FF_NAME_CNTRY": 0.22,
+				"ADDRESS": 7.89,
+				"NATIONALITY": 0.78,
+				"CONTACT_FOR": 4.11,
+				"JOB_TITLE": 3.33
+			},
+			"SAMPLE_ENTITIES": {
+				"30082": "JOHN FRANCIS SANDERSON",
+				"35590": "DAVID JOHN LANE FREER ANDERSON",
+				"28007": "DAVID ANDERSON SUTTIE",
+				"60170": "CAROLE NOELLE KEENE",
+				"19595": "MARK JONATHAN ANDERSON",
+				"69559": "ROBERT JAMES SANDERSON",
+				"19640": "HOWARD NEIL SANDERSON",
+				"53564": "MARTIN ROBERT SANDERSON",
+				"88093": "MICHAEL FRANCIS ANDERSON"
+			},
+			"ENTITY_SIZE": 26,
+			"ENTITY_COUNT": 9,
+			"ANALYSIS": "warning: 7.89 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 20.7,
+				"OWNER_OF": 2.6,
+				"NAME": 2.5,
+				"DOB": 1.1,
+				"GENDER": 0.6,
+				"FF_NAME_DOB": 0.1,
+				"PHONE": 0.7,
+				"FF_NAME_CNTRY": 0.1,
+				"ADDRESS": 6.2,
+				"NATIONALITY": 0.6,
+				"JOB_TITLE": 2.3,
+				"CONTACT_FOR": 1.6
+			},
+			"SAMPLE_ENTITIES": {
+				"85254": "MARTIN JOHN ANDERSON",
+				"34598": "PETER ANDERSON HUNT",
+				"7142": "ROY JOHN SANDERSON",
+				"72668": "MICHAEL BRENDAN FOYE",
+				"8172": "GRAHAM DOUGLAS ANDERSON",
+				"66941": "JOHN MICHAEL HLADUSZ",
+				"14772": "RICHARD ANDREW ANDERSON",
+				"34044": "ANDREW JAMES SANDERSON",
+				"23197": "PHILIP EDWARD ANDERSON",
+				"8287": "MARK LEROY ANDERSON"
+			},
+			"ENTITY_SIZE": 27,
+			"ENTITY_COUNT": 10,
+			"ANALYSIS": "warning: 6.2 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 20.13,
+				"OWNER_OF": 2.0,
+				"NAME": 3.75,
+				"DOB": 1.25,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 0.13,
+				"PHONE": 1.38,
+				"FF_NAME_CNTRY": 0.63,
+				"ADDRESS": 11.88,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 4.88,
+				"JOB_TITLE": 2.38
+			},
+			"SAMPLE_ENTITIES": {
+				"21632": "DAVID CHARLES ANDERSON",
+				"58304": "SEONNA ANDERSON",
+				"85377": "ROBERT DAVID ANDERSON",
+				"22632": "GEORGE ANDERSON HOBSON",
+				"19497": "MARTIN HUME CALDICOTT ANDERSON",
+				"51410": "PETER STUART ANDERSON",
+				"35158": "THOMAS LUKE ANDERSON",
+				"23351": "KEITH ANDERSON"
+			},
+			"ENTITY_SIZE": 28,
+			"ENTITY_COUNT": 8,
+			"ANALYSIS": "warning: 3.75 names,11.88 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 20.33,
+				"OWNER_OF": 2.11,
+				"NAME": 3.44,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 0.11,
+				"PHONE": 1.67,
+				"FF_NAME_CNTRY": 0.22,
+				"ADDRESS": 11.44,
+				"NATIONALITY": 0.78,
+				"CONTACT_FOR": 5.44,
+				"JOB_TITLE": 2.67
+			},
+			"SAMPLE_ENTITIES": {
+				"25024": "MICHAEL JOHN ANDERSON",
+				"27175": "STEVEN JOHN ANDERSON",
+				"55466": "DEBORAH JANE ANDERSON",
+				"20211": "KENNETH DAVID ANDERSON",
+				"22580": "MICHAEL ROBERT ANDERSON",
+				"41206": "ALASTAIR THOMAS ANDERSON",
+				"56212": "MARK ANDREW ADAMSON",
+				"66586": "DAVID ANDERSON",
+				"53022": "HENRY SANDERSON"
+			},
+			"ENTITY_SIZE": 29,
+			"ENTITY_COUNT": 9,
+			"ANALYSIS": "warning: 3.44 names,11.44 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 19.5,
+				"NAME": 4.5,
+				"DOB": 1.5,
+				"GENDER": 1.0,
+				"OWNER_OF": 3.0,
+				"PHONE": 2.0,
+				"FF_NAME_CNTRY": 0.25,
+				"ADDRESS": 13.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 7.0,
+				"JOB_TITLE": 2.25
+			},
+			"SAMPLE_ENTITIES": {
+				"31514": "JAMES LIONEL ANDERSON",
+				"30524": "ANTHONY JOHN THOMAS ANDERSON",
+				"83686": "EDMUND MARSHALL MARTIN",
+				"40495": "ROBERT DAVID ANDERSON"
+			},
+			"ENTITY_SIZE": 30,
+			"ENTITY_COUNT": 4,
+			"ANALYSIS": "warning: 4.5 names,13.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 20.0,
+				"OWNER_OF": 1.33,
+				"NAME": 6.33,
+				"DOB": 1.67,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"PHONE": 2.0,
+				"FF_NAME_CNTRY": 0.33,
+				"ADDRESS": 12.67,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 7.33,
+				"JOB_TITLE": 5.0
+			},
+			"SAMPLE_ENTITIES": {
+				"81112": "BRIAN EDWARD ANDERSON",
+				"17069": "CRAWFORD CRAWFORD ANDERSON",
+				"34391": "PETER JOHN ANDERSON"
+			},
+			"ENTITY_SIZE": 31,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "warning: 6.33 names,12.67 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 19.5,
+				"NAME": 2.25,
+				"DOB": 1.25,
+				"GENDER": 0.75,
+				"OWNER_OF": 1.75,
+				"PHONE": 1.5,
+				"FF_NAME_CNTRY": 0.25,
+				"ADDRESS": 10.0,
+				"NATIONALITY": 0.75,
+				"CONTACT_FOR": 6.75,
+				"JOB_TITLE": 1.75
+			},
+			"SAMPLE_ENTITIES": {
+				"21728": "KEITH ANDERSON",
+				"84569": "ALEXANDER JAMES ANDERSON",
+				"27003": "COLIN BRUCE MANDERSON",
+				"54445": "DON ANDERSON"
+			},
+			"ENTITY_SIZE": 32,
+			"ENTITY_COUNT": 4,
+			"ANALYSIS": "warning: 10.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 25.4,
+				"NAME": 3.6,
+				"DOB": 1.6,
+				"GENDER": 1.0,
+				"OWNER_OF": 3.2,
+				"PHONE": 0.8,
+				"FF_NAME_CNTRY": 0.2,
+				"ADDRESS": 10.2,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 4.2,
+				"JOB_TITLE": 2.8
+			},
+			"SAMPLE_ENTITIES": {
+				"75872": "LINDA ANNE CUTLER",
+				"25282": "MARK JOHN ANDERSON",
+				"29318": "MICHAEL ANDERSON",
+				"23821": "ROBERT JOHN ANDERSON",
+				"26510": "JOHN BARRIE ANDERSON"
+			},
+			"ENTITY_SIZE": 33,
+			"ENTITY_COUNT": 5,
+			"ANALYSIS": "warning: 3.6 names,10.2 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 21.0,
+				"OWNER_OF": 4.8,
+				"NAME": 3.8,
+				"DOB": 1.4,
+				"GENDER": 0.8,
+				"FF_NAME_DOB": 0.2,
+				"PHONE": 1.2,
+				"FF_NAME_CNTRY": 0.6,
+				"ADDRESS": 15.2,
+				"NATIONALITY": 1.2,
+				"CONTACT_FOR": 6.6,
+				"JOB_TITLE": 3.8
+			},
+			"SAMPLE_ENTITIES": {
+				"26056": "IAIN MARTIN ANDERSON",
+				"19180": "JAMES JONATHAN ANDERSON",
+				"23658": "SIMON GEORGE ANDERSON",
+				"30571": "STEVEN ANDERSON",
+				"7148": "MARGARET ANDERSON"
+			},
+			"ENTITY_SIZE": 34,
+			"ENTITY_COUNT": 5,
+			"ANALYSIS": "warning: 3.8 names,15.2 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 25.5,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"GENDER": 0.5,
+				"OWNER_OF": 4.5,
+				"PHONE": 1.0,
+				"ADDRESS": 7.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 2.5,
+				"CONTACT_FOR": 5.0
+			},
+			"SAMPLE_ENTITIES": {
+				"87536": "TIMOTHY DAVID ANDERSON",
+				"26090": "RUSSELL SANDERSON"
+			},
+			"ENTITY_SIZE": 35,
+			"ENTITY_COUNT": 2,
+			"ANALYSIS": "warning: 7.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 26.0,
+				"OWNER_OF": 3.75,
+				"NAME": 3.0,
+				"DOB": 1.75,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 0.25,
+				"ADDRESS": 13.5,
+				"NATIONALITY": 0.75,
+				"JOB_TITLE": 3.5,
+				"CONTACT_FOR": 3.75
+			},
+			"SAMPLE_ENTITIES": {
+				"29464": "SCOTT ANDERSON",
+				"28578": "CHRISTOPHER GEORGE ANDERSON",
+				"54899": "KENNETH GRAEME MACKENZIE ANDERSON",
+				"10069": "JOHN KENNETH ANDERSON"
+			},
+			"ENTITY_SIZE": 36,
+			"ENTITY_COUNT": 4,
+			"ANALYSIS": "warning: 13.5 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 31.86,
+				"OWNER_OF": 0.71,
+				"NAME": 2.71,
+				"DOB": 1.14,
+				"GENDER": 0.57,
+				"FF_NAME_DOB": 0.14,
+				"PHONE": 0.43,
+				"FF_NAME_CNTRY": 0.14,
+				"ADDRESS": 7.71,
+				"NATIONALITY": 0.71,
+				"JOB_TITLE": 1.71,
+				"CONTACT_FOR": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"50145": "KEITH ANDERSON",
+				"33412": "JOHN ANDERSON BREWIS",
+				"25158": "JOHN MICHAEL HENRY ANDERSON",
+				"57320": "STEPHEN WILLIAM ANDERSON",
+				"14641": "CRAIG ANTHONY ANDERSON",
+				"23507": "BRUCE ANDERSON",
+				"53496": "THOMAS EDWARD JACK"
+			},
+			"ENTITY_SIZE": 37,
+			"ENTITY_COUNT": 7,
+			"ANALYSIS": "warning: 7.71 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 31.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 1.0,
+				"PHONE": 5.0,
+				"ADDRESS": 8.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 6.0,
+				"JOB_TITLE": 4.0
+			},
+			"SAMPLE_ENTITIES": {
+				"19054": "MERVYN SANDERSON"
+			},
+			"ENTITY_SIZE": 38,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 8.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 32.0,
+				"OWNER_OF": 1.33,
+				"NAME": 3.0,
+				"DOB": 0.67,
+				"GENDER": 0.33,
+				"FF_NAME_DOB": 0.33,
+				"PHONE": 0.33,
+				"ADDRESS": 3.67,
+				"JOB_TITLE": 2.0,
+				"CONTACT_FOR": 5.67
+			},
+			"SAMPLE_ENTITIES": {
+				"60619": "JOHN ANDERSON",
+				"25284": "JASON ROBERT ANDERSON",
+				"83775": "KEVIN ANDERSON"
+			},
+			"ENTITY_SIZE": 39,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 31.0,
+				"NAME": 2.6,
+				"DOB": 1.0,
+				"GENDER": 0.8,
+				"OWNER_OF": 0.8,
+				"PHONE": 2.0,
+				"FF_NAME_CNTRY": 0.4,
+				"ADDRESS": 18.0,
+				"NATIONALITY": 0.8,
+				"CONTACT_FOR": 7.4,
+				"JOB_TITLE": 3.6
+			},
+			"SAMPLE_ENTITIES": {
+				"28129": "TIMOTHY RICHARD BLACK ANDERSON",
+				"53018": "MARK ANDERSON PENMAN",
+				"37356": "BRENDAN GEORGE HARVEY BATT",
+				"52269": "COLIN CRAIG ANDERSON",
+				"7270": "AUBREY ANDERSON"
+			},
+			"ENTITY_SIZE": 40,
+			"ENTITY_COUNT": 5,
+			"ANALYSIS": "warning: 18.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 30.0,
+				"NAME": 3.33,
+				"DOB": 1.67,
+				"GENDER": 0.67,
+				"OWNER_OF": 2.33,
+				"PHONE": 0.67,
+				"FF_NAME_CNTRY": 0.33,
+				"ADDRESS": 10.33,
+				"NATIONALITY": 0.67,
+				"CONTACT_FOR": 4.0,
+				"JOB_TITLE": 1.33
+			},
+			"SAMPLE_ENTITIES": {
+				"52121": "RICHARD DAVID MOGG",
+				"83963": "JIM KELLY",
+				"30236": "STUART JAMES ANDERSON"
+			},
+			"ENTITY_SIZE": 41,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "warning: 3.33 names,10.33 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 29.67,
+				"NAME": 4.33,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 4.33,
+				"PHONE": 3.0,
+				"FF_NAME_CNTRY": 0.67,
+				"ADDRESS": 19.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 7.33,
+				"JOB_TITLE": 3.67
+			},
+			"SAMPLE_ENTITIES": {
+				"28216": "DOUGLAS GORDON ANDERSON",
+				"28457": "DAVID ANDERSON",
+				"19046": "ALEXANDER CAMPBELL ANDERSON"
+			},
+			"ENTITY_SIZE": 42,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "warning: 4.33 names,19.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 26.5,
+				"NAME": 6.5,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 6.0,
+				"PHONE": 0.5,
+				"FF_NAME_CNTRY": 0.5,
+				"ADDRESS": 16.5,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 9.5,
+				"JOB_TITLE": 4.0
+			},
+			"SAMPLE_ENTITIES": {
+				"21292": "RICHARD STEWART ANDERSON",
+				"28629": "JENNIFER ANDERSON-MANN"
+			},
+			"ENTITY_SIZE": 43,
+			"ENTITY_COUNT": 2,
+			"ANALYSIS": "warning: 6.5 names,16.5 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 24.33,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 0.67,
+				"OWNER_OF": 3.33,
+				"PHONE": 1.33,
+				"FF_NAME_CNTRY": 0.33,
+				"ADDRESS": 17.67,
+				"NATIONALITY": 0.33,
+				"CONTACT_FOR": 13.33,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"20456": "MARK ROBERT ANDERSON",
+				"7078": "MARK ANDERSON",
+				"51567": "ROBERT IAN SANDERSON"
+			},
+			"ENTITY_SIZE": 44,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "warning: 17.67 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 22.0,
+				"NAME": 5.0,
+				"DOB": 1.0,
+				"OWNER_OF": 3.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 2.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"12466": "BENJAMIN HAROLD ANDERSON"
+			},
+			"ENTITY_SIZE": 46,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 5.0 names"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 33.67,
+				"OWNER_OF": 5.33,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 0.33,
+				"PHONE": 1.0,
+				"ADDRESS": 10.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 7.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"20152": "JOHN ANDERSON",
+				"51537": "LORD ROBERT ALBERT JAMES BALCOMBE",
+				"16667": "JAMES ANDERSON CLARK"
+			},
+			"ENTITY_SIZE": 47,
+			"ENTITY_COUNT": 3,
+			"ANALYSIS": "warning: 10.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 35.0,
+				"NAME": 1.5,
+				"DOB": 1.0,
+				"GENDER": 0.5,
+				"FF_NAME_DOB": 0.5,
+				"PHONE": 1.5,
+				"ADDRESS": 8.0,
+				"NATIONALITY": 0.5,
+				"CONTACT_FOR": 5.5,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"51850": "GRANT SAMUEL ANDERSON BARCLAY",
+				"86651": "ROBERT BRUCE ANDERSON"
+			},
+			"ENTITY_SIZE": 49,
+			"ENTITY_COUNT": 2,
+			"ANALYSIS": "warning: 8.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 25.0,
+				"NAME": 1.0,
+				"DOB": 0.5,
+				"OWNER_OF": 25.0,
+				"ADDRESS": 2.0,
+				"NATIONALITY": 0.5,
+				"JOB_TITLE": 1.0,
+				"DUNS_NUMBER": 0.5
+			},
+			"SAMPLE_ENTITIES": {
+				"7013": "MYHEALTH MEDICAL GROUP PTY LTD",
+				"89310": "TIMOTHY ROBIN LLEWELYN SANDERSON"
+			},
+			"ENTITY_SIZE": 50,
+			"ENTITY_COUNT": 2,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 45.5,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 1.5,
+				"PHONE": 0.5,
+				"FF_NAME_CNTRY": 0.5,
+				"ADDRESS": 15.5,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 5.0,
+				"JOB_TITLE": 1.5
+			},
+			"SAMPLE_ENTITIES": {
+				"83158": "MARK STEPHEN ANDERSON",
+				"29102": "JOHN FREDERICK WALEY SANDERSON"
+			},
+			"ENTITY_SIZE": 52,
+			"ENTITY_COUNT": 2,
+			"ANALYSIS": "warning: 15.5 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 51.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 1.0,
+				"PHONE": 1.0,
+				"ADDRESS": 6.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 2.0,
+				"JOB_TITLE": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"33567": "PHILIP JOHN ANDERSON"
+			},
+			"ENTITY_SIZE": 54,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 6.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"DOB": 1.0,
+				"PRINCIPAL_OF": 28.0,
+				"NAME": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"85107": "PETER MCKENZIE ANDERSON"
+			},
+			"ENTITY_SIZE": 57,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 61.0,
+				"NAME": 1.0,
+				"DOB": 2.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 1.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"84882": "JOHN ANDERSON WHITE"
+			},
+			"ENTITY_SIZE": 61,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 53.0,
+				"OWNER_OF": 2.0,
+				"NAME": 5.0,
+				"DOB": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"PHONE": 1.0,
+				"ADDRESS": 4.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 9.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"19437": "ANNE ANDERSON"
+			},
+			"ENTITY_SIZE": 64,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 5.0 names"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 43.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"PHONE": 3.0,
+				"ADDRESS": 28.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 6.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"58599": "ROBERT SANDERSON"
+			},
+			"ENTITY_SIZE": 65,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 28.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 60.0,
+				"NAME": 4.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 4.0,
+				"PHONE": 1.0,
+				"ADDRESS": 14.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 6.0,
+				"JOB_TITLE": 4.0
+			},
+			"SAMPLE_ENTITIES": {
+				"19004": "MALCOLM NICHOLAS SANDERSON"
+			},
+			"ENTITY_SIZE": 70,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 4.0 names,14.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 70.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 3.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 3.0,
+				"JOB_TITLE": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"51860": "THOMAS PHILIP PALMER ANDERSON"
+			},
+			"ENTITY_SIZE": 74,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 61.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"PHONE": 3.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 8.0,
+				"NATIONALITY": 2.0,
+				"CONTACT_FOR": 15.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"53694": "NICHOLAS JAMES SANDERSON"
+			},
+			"ENTITY_SIZE": 76,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 8.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 39.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"OWNER_OF": 6.0,
+				"ADDRESS": 3.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"9203": "DAVID ANDERSON MELLOR"
+			},
+			"ENTITY_SIZE": 79,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 36.0,
+				"NAME": 3.0,
+				"PHONE": 2.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 6.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 9.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"58041": "EWAN THOMAS ANDERSON"
+			},
+			"ENTITY_SIZE": 80,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 6.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"DOB": 2.0,
+				"PRINCIPAL_OF": 42.0,
+				"NAME": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"83168": "DAVID MARK ANDERSON"
+			},
+			"ENTITY_SIZE": 81,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 51.0,
+				"NAME": 3.0,
+				"DOB": 2.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 8.0,
+				"PHONE": 2.0,
+				"ADDRESS": 20.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 24.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"7434": "THOMAS ANDERSON"
+			},
+			"ENTITY_SIZE": 83,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 20.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 51.0,
+				"OWNER_OF": 11.0,
+				"NAME": 4.0,
+				"DOB": 2.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"PHONE": 2.0,
+				"ADDRESS": 26.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 9.0,
+				"JOB_TITLE": 4.0
+			},
+			"SAMPLE_ENTITIES": {
+				"7168": "PAUL CHRISTOPHER ANDERSON"
+			},
+			"ENTITY_SIZE": 86,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 4.0 names,26.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"GENDER": 1.0,
+				"PRINCIPAL_OF": 99.0,
+				"JOB_TITLE": 1.0,
+				"NAME": 1.0,
+				"ADDRESS": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"85138": "PATRICIA ANDERSON BURGESS"
+			},
+			"ENTITY_SIZE": 99,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 108.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"ADDRESS": 2.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"83983": "LOUISE RUTH ANDERSON"
+			},
+			"ENTITY_SIZE": 108,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 68.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 18.0,
+				"PHONE": 3.0,
+				"ADDRESS": 8.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 24.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"19465": "JOHN ANDERSON"
+			},
+			"ENTITY_SIZE": 110,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 8.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 110.0,
+				"NAME": 4.0,
+				"DOB": 2.0,
+				"GENDER": 1.0,
+				"ADDRESS": 10.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"84792": "RONALD BIRNIE ANDERSON"
+			},
+			"ENTITY_SIZE": 123,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 4.0 names,10.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 128.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"FF_NAME_CNTRY": 1.0,
+				"ADDRESS": 7.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 3.0,
+				"JOB_TITLE": 5.0
+			},
+			"SAMPLE_ENTITIES": {
+				"54349": "RANDOLPH JOHN ANDERSON"
+			},
+			"ENTITY_SIZE": 131,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 7.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 143.0,
+				"NAME": 2.0,
+				"DOB": 1.0,
+				"ADDRESS": 3.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"84418": "WILLIAM WALLACE ANDERSON"
+			},
+			"ENTITY_SIZE": 143,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 169.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"ADDRESS": 5.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"83732": "SARAH ELIZABETH ANDERSON"
+			},
+			"ENTITY_SIZE": 169,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 95.0,
+				"NAME": 2.0,
+				"DOB": 2.0,
+				"PHONE": 3.0,
+				"ADDRESS": 21.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 30.0,
+				"JOB_TITLE": 2.0
+			},
+			"SAMPLE_ENTITIES": {
+				"53487": "KAREN ANDERSON"
+			},
+			"ENTITY_SIZE": 187,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 21.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"NATIONALITY": 1.0,
+				"PRINCIPAL_OF": 238.0,
+				"JOB_TITLE": 1.0,
+				"NAME": 1.0,
+				"ADDRESS": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"83200": "ARLENE ANDERSON"
+			},
+			"ENTITY_SIZE": 238,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 262.0,
+				"NAME": 3.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 2.0,
+				"PHONE": 1.0,
+				"ADDRESS": 6.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 1.0,
+				"JOB_TITLE": 4.0
+			},
+			"SAMPLE_ENTITIES": {
+				"25001": "ARLENE PIERI ANDERSON"
+			},
+			"ENTITY_SIZE": 265,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 6.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 391.0,
+				"OWNER_OF": 1.0,
+				"NAME": 16.0,
+				"DOB": 1.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"PHONE": 14.0,
+				"ADDRESS": 35.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 34.0,
+				"JOB_TITLE": 5.0
+			},
+			"SAMPLE_ENTITIES": {
+				"23044": "A PETER ANDERSON 2ND"
+			},
+			"ENTITY_SIZE": 428,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 16.0 names,35.0 addresses"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 495.0,
+				"NAME": 1.0,
+				"DOB": 2.0,
+				"GENDER": 1.0,
+				"FF_NAME_DOB": 1.0,
+				"ADDRESS": 1.0,
+				"NATIONALITY": 1.0,
+				"JOB_TITLE": 1.0
+			},
+			"SAMPLE_ENTITIES": {
+				"83340": "RICHARD ANDERSON"
+			},
+			"ENTITY_SIZE": 495,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "ok!"
+		},
+		{
+			"FEATURE_STATISTICS": {
+				"PRINCIPAL_OF": 503.0,
+				"NAME": 3.0,
+				"DOB": 2.0,
+				"GENDER": 1.0,
+				"OWNER_OF": 2.0,
+				"PHONE": 2.0,
+				"ADDRESS": 10.0,
+				"NATIONALITY": 1.0,
+				"CONTACT_FOR": 4.0,
+				"JOB_TITLE": 3.0
+			},
+			"SAMPLE_ENTITIES": {
+				"27335": "JOHN ROBERT ANDERSON"
+			},
+			"ENTITY_SIZE": 509,
+			"ENTITY_COUNT": 1,
+			"ANALYSIS": "warning: 10.0 addresses"
+		}
+	],
+	"TOTAL_POSSIBLY_RELATEDS": 18195,
+	"DATA_SOURCES": {
+		"PRIME": {
+			"RECORD_COUNT": 92994,
+			"DUPLICATE_COUNT": 13670,
+			"COMPRESSION": "36.33%",
+			"POSSIBLE_MATCH_COUNT": 3069,
+			"POSSIBLY_RELATED_SAMPLE": [
+				"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"9089 9126 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"9145 9012 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"51064 81161 on +SURNAME+ADDRESS+PHONE+NATIONALITY-DOB (CFF_SURNAME)",
+				"157184 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+			],
+			"POSSIBLY_RELATED_COUNT": 11111,
+			"SINGLE_COUNT": 45543,
+			"AMBIGUOUS_MATCH_SAMPLE": [
+				"101730 85310 on +NAME+CK_NAME_ORGNM (Ambiguous) (CNAME_CFF)",
+				"101730 84446 on +NAME+CK_NAME_ORGNM (Ambiguous) (CNAME_CFF)",
+				"109418 105622 on +NAME+CK_NAME_ORGNM (Ambiguous) (CNAME_CFF)",
+				"109418 84483 on +NAME+CK_NAME_ORGNM (Ambiguous) (CNAME_CFF)",
+				"120337 86255 on +NAME+NATIONALITY+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"158585 84637 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"152924 161151 on +NAME+GENDER+ADDRESS (Ambiguous) (CNAME_CFF)",
+				"117619 104454 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"83288 154254 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"56072 161151 on +NAME+GENDER+ADDRESS (Ambiguous) (CNAME_CFF)"
+			],
+			"DUPLICATE_SAMPLE": [
+				4,
+				1005,
+				1009,
+				2002,
+				184191,
+				185249,
+				186373,
+				186110,
+				185288,
+				183931
+			],
+			"CROSS_MATCHES": {
+				"GBO": {
+					"MATCH_COUNT": 11777,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"35222 92303 on +NAME+DOB (CNAME_CSTAB)",
+						"43416 35476 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"15681 153921 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"12141 144014 on +NAME+DOB (CNAME_CSTAB)",
+						"15603 10052 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"23947 23540 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"157184 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 8682,
+					"MATCH_SAMPLE": [
+						2,
+						4,
+						5,
+						7,
+						46630,
+						46654,
+						46606,
+						46621,
+						46655,
+						46640
+					],
+					"POSSIBLE_MATCH_COUNT": 1954,
+					"AMBIGUOUS_MATCH_COUNT": 33,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"36173 159413 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"151233 41491 on +NAME+DOB+GENDER+CK_NAME_DOB_CNTRY (Ambiguous) (CNAME_CFF_CEXCL)",
+						"185152 36173 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"185152 33212 on +NAME+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_CNAME)",
+						"31568 39060 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 63929 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"13543 153479 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"22427 145877 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"136521 22427 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"18059 133652 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+					]
+				},
+				"CONTACTS": {
+					"MATCH_COUNT": 13538,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"76970 51038 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+						"179944 43513 on +NAME+DOB+GENDER+CK_NAME_DOB_CNTRY+FF_NAME_DOB+FF_NAME_CNTRY-NATIONALITY (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8350 10407 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+						"8169 50132 on +SURNAME+ADDRESS+PHONE-DOB (CFF_SURNAME)",
+						"51064 81161 on +SURNAME+ADDRESS+PHONE+NATIONALITY-DOB (CFF_SURNAME)",
+						"157184 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 13732,
+					"MATCH_SAMPLE": [
+						7025,
+						7043,
+						7061,
+						7065,
+						82141,
+						82252,
+						82249,
+						82254,
+						82223,
+						82204
+					],
+					"POSSIBLE_MATCH_COUNT": 2360,
+					"AMBIGUOUS_MATCH_COUNT": 43,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"146561 62882 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY+FF_NAME_DOB (Ambiguous) (MFF_LNAME_CEXCL)",
+						"78024 146561 on +NAME+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_CNAME)",
+						"54769 146598 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_LNAME_CEXCL)",
+						"78634 144546 on +NAME+DOB+GENDER+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"56233 88812 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"51507 133667 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"152059 71383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"73176 36022 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"57066 122334 on +NAME+DOB+GENDER+ADDRESS+CK_NAME_DOB_CNTRY+FF_NAME_DOB+FF_NAME_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"56072 161151 on +NAME+GENDER+ADDRESS (Ambiguous) (CNAME_CFF)"
+					]
+				}
+			},
+			"AMBIGUOUS_MATCH_COUNT": 125,
+			"SINGLE_SAMPLE": [
+				2,
+				5,
+				7,
+				8,
+				187460,
+				187477,
+				187469,
+				187470,
+				187471,
+				187455
+			],
+			"ENTITY_COUNT": 59213,
+			"POSSIBLE_MATCH_SAMPLE": [
+				"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+				"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+				"60610 75842 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+				"35222 92303 on +NAME+DOB (CNAME_CSTAB)",
+				"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"76970 51038 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"158268 92967 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"15603 10052 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+			]
+		},
+		"GBO": {
+			"RECORD_COUNT": 27219,
+			"DUPLICATE_COUNT": 2238,
+			"COMPRESSION": "12.31%",
+			"POSSIBLE_MATCH_COUNT": 319,
+			"POSSIBLY_RELATED_SAMPLE": [
+				"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"9089 9126 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"9145 9012 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+				"23947 23540 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"23658 29102 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"35089 31287 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+			],
+			"POSSIBLY_RELATED_COUNT": 3044,
+			"SINGLE_COUNT": 21630,
+			"AMBIGUOUS_MATCH_SAMPLE": [
+				"26225 45020 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+				"17456 13543 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"28165 42383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"31568 39060 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+			],
+			"DUPLICATE_SAMPLE": [
+				4,
+				1003,
+				1005,
+				7001,
+				46054,
+				46595,
+				48007,
+				46365,
+				46098,
+				46102
+			],
+			"CROSS_MATCHES": {
+				"PRIME": {
+					"MATCH_COUNT": 11777,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"35222 92303 on +NAME+DOB (CNAME_CSTAB)",
+						"43416 35476 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"15681 153921 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"12141 144014 on +NAME+DOB (CNAME_CSTAB)",
+						"15603 10052 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"9035 7028 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"7024 9054 on +SURNAME+ADDRESS-DOB (CFF_SURNAME)",
+						"23947 23540 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"157184 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 8682,
+					"MATCH_SAMPLE": [
+						2,
+						4,
+						5,
+						7,
+						46630,
+						46654,
+						46606,
+						46621,
+						46655,
+						46640
+					],
+					"POSSIBLE_MATCH_COUNT": 1954,
+					"AMBIGUOUS_MATCH_COUNT": 33,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"36173 159413 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"151233 41491 on +NAME+DOB+GENDER+CK_NAME_DOB_CNTRY (Ambiguous) (CNAME_CFF_CEXCL)",
+						"185152 36173 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"185152 33212 on +NAME+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_CNAME)",
+						"31568 39060 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 63929 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"13543 153479 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"22427 145877 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"136521 22427 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"18059 133652 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+					]
+				},
+				"CONTACTS": {
+					"MATCH_COUNT": 6665,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"43416 35476 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+						"43416 43189 on +NAME+DOB+GENDER (CNAME_CSTAB)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"27577 52626 on +NAME+DOB+GENDER+NATIONALITY (CNAME_CSTAB)",
+						"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+						"16672 24050 on +NAME+GENDER+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"36124 35311 on +ADDRESS (SFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8350 10407 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+						"23947 23540 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"23658 29102 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 6925,
+					"MATCH_SAMPLE": [
+						7025,
+						7043,
+						7061,
+						7065,
+						46054,
+						46636,
+						46524,
+						46333,
+						46570,
+						46501
+					],
+					"POSSIBLE_MATCH_COUNT": 754,
+					"AMBIGUOUS_MATCH_COUNT": 10,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"26225 45020 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"71841 26170 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"81107 38292 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+						"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+						"52876 40447 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"28165 42383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 63929 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 39060 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"73176 36022 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+					]
+				}
+			},
+			"AMBIGUOUS_MATCH_COUNT": 5,
+			"SINGLE_SAMPLE": [
+				1,
+				2,
+				3,
+				5,
+				49007,
+				49013,
+				49014,
+				49019,
+				49016,
+				48014
+			],
+			"ENTITY_COUNT": 23868,
+			"POSSIBLE_MATCH_SAMPLE": [
+				"8120 9391 on +NAME+CK_NAME_DUNS+CK_NAME_ORGNM-DUNS_NUMBER (CNAME_CFF_DEXCL)",
+				"10037 9391 on +NAME+ADDRESS+CK_NAME_DUNS+CK_NAME_ORGNM-DUNS_NUMBER (CNAME_CFF_DEXCL)",
+				"18664 12858 on +NAME+ADDRESS-DUNS_NUMBER (CNAME_CFF_DEXCL)",
+				"16024 12589 on +NAME+ADDRESS-DUNS_NUMBER (CNAME_CFF_DEXCL)",
+				"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"22289 22767 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"29537 46172 on +NAME+GENDER+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"27129 35371 on +NAME+GENDER+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+				"15603 10052 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+			]
+		},
+		"CONTACTS": {
+			"RECORD_COUNT": 29547,
+			"DUPLICATE_COUNT": 2951,
+			"COMPRESSION": "16.03%",
+			"POSSIBLE_MATCH_COUNT": 536,
+			"POSSIBLY_RELATED_SAMPLE": [
+				"50056 50036 on +SURNAME+ADDRESS (CFF_SURNAME)",
+				"50067 50071 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+				"50059 50091 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+				"8169 8014 on +ADDRESS+PHONE (MFF)",
+				"51064 81161 on +SURNAME+ADDRESS+PHONE+NATIONALITY-DOB (CFF_SURNAME)",
+				"23658 29102 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"33495 36231 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+				"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+			],
+			"POSSIBLY_RELATED_COUNT": 10872,
+			"SINGLE_COUNT": 21860,
+			"AMBIGUOUS_MATCH_SAMPLE": [
+				"64931 72819 on +NAME+PHONE (Ambiguous) (CNAME_CFF)",
+				"72819 54527 on +NAME+PHONE (Ambiguous) (CNAME_CFF)",
+				"72546 60228 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+				"71841 26170 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+				"78650 51507 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"75965 71383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+				"73176 36022 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+			],
+			"DUPLICATE_SAMPLE": [
+				7061,
+				7065,
+				7078,
+				7148,
+				76600,
+				75877,
+				77946,
+				77223,
+				80037,
+				76630
+			],
+			"CROSS_MATCHES": {
+				"PRIME": {
+					"MATCH_COUNT": 13538,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"76970 51038 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+						"179944 43513 on +NAME+DOB+GENDER+CK_NAME_DOB_CNTRY+FF_NAME_DOB+FF_NAME_CNTRY-NATIONALITY (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8350 10407 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+						"8169 50132 on +SURNAME+ADDRESS+PHONE-DOB (CFF_SURNAME)",
+						"51064 81161 on +SURNAME+ADDRESS+PHONE+NATIONALITY-DOB (CFF_SURNAME)",
+						"157184 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 13732,
+					"MATCH_SAMPLE": [
+						7025,
+						7043,
+						7061,
+						7065,
+						82141,
+						82252,
+						82249,
+						82254,
+						82223,
+						82204
+					],
+					"POSSIBLE_MATCH_COUNT": 2360,
+					"AMBIGUOUS_MATCH_COUNT": 43,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"146561 62882 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY+FF_NAME_DOB (Ambiguous) (MFF_LNAME_CEXCL)",
+						"78024 146561 on +NAME+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_CNAME)",
+						"54769 146598 on +NAME+DOB+ADDRESS+CK_NAME_DOB_CNTRY+CK_NAME_DUNS+CK_NAME_ORGNM (Ambiguous) (MFF_LNAME_CEXCL)",
+						"78634 144546 on +NAME+DOB+GENDER+ADDRESS+CK_NAME_DOB_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"56233 88812 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"51507 133667 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"152059 71383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"73176 36022 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"57066 122334 on +NAME+DOB+GENDER+ADDRESS+CK_NAME_DOB_CNTRY+FF_NAME_DOB+FF_NAME_CNTRY (Ambiguous) (MFF_LNAME_CEXCL)",
+						"56072 161151 on +NAME+GENDER+ADDRESS (Ambiguous) (CNAME_CFF)"
+					]
+				},
+				"GBO": {
+					"MATCH_COUNT": 6665,
+					"POSSIBLE_MATCH_SAMPLE": [
+						"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+						"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+						"43416 35476 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+						"43416 43189 on +NAME+DOB+GENDER (CNAME_CSTAB)",
+						"41137 30370 on +NAME+ADDRESS+NATIONALITY+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"18506 62638 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+						"27577 52626 on +NAME+DOB+GENDER+NATIONALITY (CNAME_CSTAB)",
+						"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+						"16672 24050 on +NAME+GENDER+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+					],
+					"POSSIBLY_RELATED_SAMPLE": [
+						"36124 35311 on +ADDRESS (SFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8169 8014 on +ADDRESS+PHONE (MFF)",
+						"8350 10407 on +SURNAME+ADDRESS+PHONE (CFF_SURNAME)",
+						"23947 23540 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"23658 29102 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"41137 41076 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"42008 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"30370 41076 on +SURNAME+GENDER+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)",
+						"68836 20102 on +SURNAME+ADDRESS+NATIONALITY-DOB (CFF_SURNAME)"
+					],
+					"POSSIBLY_RELATED_COUNT": 6925,
+					"MATCH_SAMPLE": [
+						7025,
+						7043,
+						7061,
+						7065,
+						46054,
+						46636,
+						46524,
+						46333,
+						46570,
+						46501
+					],
+					"POSSIBLE_MATCH_COUNT": 754,
+					"AMBIGUOUS_MATCH_COUNT": 10,
+					"AMBIGUOUS_MATCH_SAMPLE": [
+						"26225 45020 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"71841 26170 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"81107 38292 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+						"26225 45687 on +NAME+ADDRESS (Ambiguous) (CNAME_CFF)",
+						"52876 40447 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"28165 42383 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 63929 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"31568 39060 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)",
+						"73176 36022 on +NAME+FF_NAME_CNTRY (Ambiguous) (CNAME_CFF)"
+					]
+				}
+			},
+			"AMBIGUOUS_MATCH_COUNT": 8,
+			"SINGLE_SAMPLE": [
+				7025,
+				7043,
+				7070,
+				7101,
+				82228,
+				82252,
+				82249,
+				82254,
+				82256,
+				82258
+			],
+			"ENTITY_COUNT": 24811,
+			"POSSIBLE_MATCH_SAMPLE": [
+				"54963 23174 on +PNAME+DOB+ADDRESS (LNAME_CFF_LSTAB)",
+				"70620 34604 on +PNAME+DOB+GENDER+ADDRESS (LNAME_CFF_LSTAB)",
+				"60610 75842 on +NAME+ADDRESS-DOB (CNAME_CFF_DEXCL)",
+				"43416 43189 on +NAME+DOB+GENDER (CNAME_CSTAB)",
+				"19410 16231 on +NAME+DOB+GENDER+NATIONALITY (CNAME_CSTAB)",
+				"45044 73623 on +NAME+GENDER+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"52524 29221 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"76970 51038 on +NAME+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)",
+				"33288 19518 on +NAME+DOB (CNAME_CSTAB)",
+				"16672 24050 on +NAME+GENDER+FF_NAME_CNTRY-DOB (CNAME_CFF_DEXCL)"
+			]
+		}
+	},
+	"TOTAL_AMBIGUOUS_MATCHES": 163,
+	"TOTAL_ENTITY_COUNT": 82282,
+	"TOTAL_COMPRESSION": "45.06%",
+	"TOTAL_POSSIBLE_MATCHES": 3086,
+	"TOTAL_RECORD_COUNT": 149760
+}
